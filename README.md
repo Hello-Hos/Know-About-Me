@@ -1,5 +1,5 @@
 # ::Who Am I::
-        College Repository
+         Repository
 Author            - Hari Om Singh
 <br>
 Degree In         - Bachelor's Of Computer Application
