@@ -7,7 +7,7 @@ Degree In         - Bachelor's Of Computer Application
 Curently Pursuing - Master's Of Computer Application
 <br>
 Specilization     - Data Science
-<br>
+                    <br>
                     Cyber Security
                     <br>
 Trained With      - AI and Machine Learning with Python(Certified)
