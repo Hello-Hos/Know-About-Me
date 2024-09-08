@@ -13,7 +13,7 @@ Specilization     - Data Science ,
 
 Trained With      - AI and Machine Learning with Python(Certified) , 
                     Database Management System , 
-                    React & Node.js , 
+                    Html,css, javascript and react.js, 
                     Swayam Cyber Security 6-month Complete Course , 
                     Ethical Hacking Trainee(Certified).
 <br>
